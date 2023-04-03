@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Guillermo, a theoretical physicist, enthusiast 👨‍💻 working at Barcelona 🚀</div>  
   
 
-- 🔭 I’m currently working on [Glovo](https://github.com/DhananjayPorwal/HackOn2.0)  
+- 🔭 I’m currently working on [Glovo](https://github.com/Glovo)  
   
 
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Machine learning   
