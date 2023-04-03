@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -29,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Machine learning   
   
 
-- ⚡ I clmb 
+- ⚡ I love to learn 📚, watch movies 🎥, read 📖, climb 🧗‍♂️ and go snowboarding 🏂!
   
 
 <br/>  
