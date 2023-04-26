@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   
 
-- 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech), former [Glovo](https://github.com/Glovo) employee.
+- 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech), previously working on [Glovo](https://github.com/Glovo).
   
 
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Machine learning   
