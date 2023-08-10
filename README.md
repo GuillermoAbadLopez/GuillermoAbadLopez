@@ -99,13 +99,13 @@ Here are some ideas to get you started:
 
 <div align='center'>
 <a href='https://www.hackerrank.com/certificates/789e2ad07027'>
-    <img src='media/python.png' width='279' title='Python'>
+    <img src='media/python.png' width='249' title='Python'>
 </a>
 <a href='https://www.hackerrank.com/certificates/13af0677a993'>
-    <img src='media/sql_basic.png' width='279' title='SQL (Basic)'>
+    <img src='media/sql_basic.png' width='249' title='SQL (Basic)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/3d4e7ad0becd'>
-    <img src='media/sql_advanced.png' width='279' title='SQL (Advanced)'>
+    <img src='media/sql_advanced.png' width='249' title='SQL (Advanced)'>
 </a>
 </div>
 
