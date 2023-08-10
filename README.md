@@ -40,6 +40,17 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/guillermo-abad-l%C3%B3pez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.hackerrank.com/guilleabadlopez" target="_blank">
+<img width=105px src="media/hackerrank.png"/>
+</a>
+<a href="https://www.youtube.com/channel/UCuXgNHo2fYt9TjfQkUsWkNw" target="_blank">
+<img width=73px src="media/youtube.png"/>
+</a>
+<a href="https://guilleabadlopez.wixsite.com/physics" target="_blank">
+<img width=65px src="media/web.png"/>
+</a>
+
+  
 </div>  
 
 <br/>
