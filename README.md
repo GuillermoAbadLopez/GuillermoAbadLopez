@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="media/greetings.gif" align="center" style="width: 60%" />
 </div>  
-  
 
-### <div align="center">I'm Guillermo, a theoretical physicist, enthusiast 👨‍💻 working at Barcelona 🚀</div>  
+<br/>
   
-  
+## <div align="left">I'm Guillermo, a theoretical physicist, enthusiast 👨‍💻 working at Barcelona 🚀</div>  
+
 
 - 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech), previously worked on [Glovo](https://github.com/Glovo).
   
@@ -32,6 +32,18 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/guillermoabadlopez" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/guillermo-abad-l%C3%B3pez/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br/>
+  
 
 ## Languages and Tools  
 <div align="center">
@@ -48,36 +60,44 @@ Here are some ideas to get you started:
 
 <br/>  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoAbadLopez&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/guillermoabadlopez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/guillermo-abad-l%C3%B3pez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
+<p align="center">
+<img align="center" width='41.7%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&count_private=true&hide_border=true&theme=dracula"</img> 
+<img align="center" width='43.7%' src="https://github-readme-streak-stats.herokuapp.com/?user=GuillermoAbadLopez&show_icons=true&count_private=true&hide_border=true&theme=dracula"</img> 
+</p>
 
-<br/>  
-
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.GuillermoAbadLopez.GuillermoAbadLopez" align="center" />
-</div> 
+<p align='center'>
+<img width='60%' src='https://github-widgetbox.vercel.app/api/profile?username=GuillermoAbadLopez&data=followers,repositories,commits&theme=dracula'>
+</p>
 
 <br/> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoAbadLopez&layout=compact&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Credentials
+
+<div align='center'>
+<a href='https://www.hackerrank.com/certificates/789e2ad07027'>
+    <img src='media/python.png' width='279' title='Python'>
+</a>
+<a href='https://www.hackerrank.com/certificates/13af0677a993'>
+    <img src='media/sql_basic.png' width='279' title='SQL (Basic)'>
+</a>
+<a href='https://www.hackerrank.com/certificates/3d4e7ad0becd'>
+    <img src='media/sql_advanced.png' width='279' title='SQL (Advanced)'>
+</a>
+</div>
+
+
+
+
 
 
   
