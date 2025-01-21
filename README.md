@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech) a startup that builds QComputers, previously worked on [Glovo](https://github.com/Glovo).
   
 
-- 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Machine learning   
+- 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Quantum Field Theories.
   
 
 - ⚡ I love to learn 📚, watch movies 🎥, read 📖, climb 🧗‍♂️ and go snowboarding 🏂!
