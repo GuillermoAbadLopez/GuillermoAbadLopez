@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## <div align="left">I'm Guillermo, a theoretical physicist, enthusiast 👨‍💻 working at Barcelona 🚀</div>  
 
 
-- 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech), previously worked on [Glovo](https://github.com/Glovo).
+- 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech) a startup that builds QComputers, previously worked on [Glovo](https://github.com/Glovo).
   
 
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Machine learning   
