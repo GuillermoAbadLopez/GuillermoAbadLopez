@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## Github Stats 
 <p align="center">
-<img align="center" width='40.0%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"</img> 
+<img align="center" width='40.0%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=dracula&show=reviews,prs_merged"</img> 
 </p>
 
 <p align='center'>
