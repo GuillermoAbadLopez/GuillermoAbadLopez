@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 7px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTex" height="50" />   
+<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTex" height="40" />   
 </div>  
 
 <br/>  
@@ -79,8 +79,7 @@ Here are some ideas to get you started:
 
 ## Github Stats 
 <p align="center">
-<img align="center" width='40.0%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&theme=dracula"</img> 
-<img align="center" width='43.8%' src="https://github-readme-streak-stats.herokuapp.com?user=GuillermoAbadLopez&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" </img> 
+<img align="center" width='40.0%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"</img> 
 </p>
 
 <p align='center'>
