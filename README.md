@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <br/>
   
-## <div align="left">I'm Guillermo, a theoretical physicist, enthusiast 👨‍💻 working at Barcelona 🚀</div>  
+## <div align="left">I'm Guillermo, enthusiast 👨‍💻, doing a PhD in Quantum Simulation at Barcelona 🚀</div>  
 
 
-- 🔭 I’m currently working on [Qilimanjaro](https://github.com/qilimanjaro-tech) a startup that builds QComputers, previously worked on [Glovo](https://github.com/Glovo).
+- 🔭 I’m currently a PhD student under Anna Sampera at [GIQ](https://webs.uab.cat/giq/) in Universitat Autònoma de Barcelona, studing Quantum Simulation. (previously worked as a Quantum SWE in [Qilimanjaro](https://github.com/qilimanjaro-tech), a startup that builds QComputers, and as a Data Analyst on [Glovo](https://github.com/Glovo).
   
 
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Quantum Field Theories.
