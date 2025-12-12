@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
   
-## <div align="left">I'm Guillermo, enthusiast 👨‍💻, doing a PhD in Quantum Simulation at Barcelona 🚀</div>  
+## <div align="left">I'm Guillermo, enthusiast 👨‍💻 doing a PhD in Quantum Simulation in Barcelona 🚀</div>  
 
 
 - 🔭 I’m currently a PhD student under Anna Sampera at [GIQ](https://webs.uab.cat/giq/) in Universitat Autònoma de Barcelona, studing Quantum Simulation. (previously worked as a Quantum SWE in [Qilimanjaro](https://github.com/qilimanjaro-tech), a startup that builds QComputers, and as a Data Analyst on [Glovo](https://github.com/Glovo).
