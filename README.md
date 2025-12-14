@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 ## <div align="left">I'm Guillermo, a theoretical 🤓 and computational physicist 👨‍💻, a pleasure! 🚀</div>  
 
 
-- 🔭 I’m currently a PhD student under Anna Sampera at [GIQ](https://webs.uab.cat/giq/) in Universitat Autònoma de Barcelona, studing Quantum Simulation. (previously worked as a Quantum SWE in [Qilimanjaro](https://github.com/qilimanjaro-tech), a startup that builds QComputers, and as a Data Analyst on [Glovo](https://github.com/Glovo).
+- 🔭 I’m a PhD student at [GIQ](https://webs.uab.cat/giq/) in Universitat Autònoma de Barcelona, studying Quantum Simulation, and Qiskit Advocate.
+
+
+- ⏮️ Previously worked as a Quantum SWE in [Qilimanjaro](https://github.com/qilimanjaro-tech), a startup that builds QComputers, and as a Data Analyst on [Glovo](https://github.com/Glovo).
   
 
 - 🌱 I’m currently learning and exploring Quantum computation, Computer Science and Quantum Field Theories.
