@@ -63,27 +63,24 @@ Here are some ideas to get you started:
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTex" height="40" />   
 </div>  
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoAbadLopez&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoAbadLopez&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div> -->
 
 
 <br/>  
 
 
 ## Github Stats 
-<p align="center">
+<!-- <p align="center">
 <img align="center" width='40.0%' src="https://github-readme-stats.vercel.app/api?username=GuillermoAbadLopez&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=dracula&show=reviews,prs_merged"</img> 
-</p>
+</p> -->
 
 <p align='center'>
 <img width='60%' src='https://github-widgetbox.vercel.app/api/profile?username=GuillermoAbadLopez&data=followers,repositories,commits&theme=dracula'>
